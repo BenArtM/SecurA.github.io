@@ -1,0 +1,8 @@
+---
+layout: default
+title: SecurA
+---
+<div class="main">
+	<h1>SecureA</h1>
+	<p>Selamat datang : <a href="/about">userrealname</a></p>
+</div><!-- /.main -->
